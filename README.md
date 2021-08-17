@@ -1,2 +1,2 @@
-# Guessing
+# Python
 Guessing a word
