@@ -1,0 +1,9 @@
+,EmpCode,DOJ,Year,Gender,Department,NoOfHours,Payment,City
+0,E0001,12/12/1997,1997,Male,Admin,12,42000,Delhi
+1,E0002,1/1/1999,1999,Female,HR,13,31000,Gurgaon
+2,E0003,3/3/1998,1998,Male,Testing,11,20000,Delhi
+3,E0004,1/1/2004,2004,Female,HR,14,65000,Gurgaon
+4,E0005,1/1/2004,2004,Male,HR,11,83000,Mumbai
+5,E0006,3/3/1998,1998,Male,Testing,10,23000,Delhi
+6,E0007,1/1/2004,2004,Female,HR,13,68000,Gurgaon
+7,E0008,1/1/2004,2004,Male,HR,17,88000,Mumbai
